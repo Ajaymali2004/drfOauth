@@ -1,0 +1,28 @@
+# .gitignore
+
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+env.txt
+# Postman
+.postman/
