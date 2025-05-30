@@ -10,11 +10,9 @@ venv/
 ENV/
 
 # Django
-*.sqlite3
 *.log
 *.pot
 *.py[cod]
-db.sqlite3
 media/
 staticfiles/
 
